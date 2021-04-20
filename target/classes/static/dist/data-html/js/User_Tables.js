@@ -1,0 +1,1 @@
+$(".selected .style-update").eq(1).css("background-color","red");
